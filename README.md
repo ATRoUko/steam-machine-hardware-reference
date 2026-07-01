@@ -133,12 +133,8 @@ Please remove any serial numbers or other personally identifiable information be
 
 ---
 
-# License
+## License
 
-Unless otherwise noted, the documentation in this repository is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Please provide appropriate attribution when redistributing or adapting this work.
-
----
-
-Thank you to everyone in the Steam community who continues documenting and exploring Valve hardware.
+See the LICENSE file for details.
