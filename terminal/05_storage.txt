@@ -1,0 +1,25 @@
+(1)(deck@steamdeck ~)$ lsblk -o NAME,SIZE,MODEL
+NAME          SIZE MODEL
+zram0         7.6G 
+nvme0n1     476.9G Micron_2500_MTFDKBK512QGN
+├─nvme0n1p1   256M 
+├─nvme0n1p2    64M 
+├─nvme0n1p3    64M 
+├─nvme0n1p4     5G 
+├─nvme0n1p5     5G 
+├─nvme0n1p6   256M 
+├─nvme0n1p7   256M 
+└─nvme0n1p8 466.1G 
+(deck@steamdeck ~)$ 
+
+
+
+
+
+
+
+
+
+
+
+
