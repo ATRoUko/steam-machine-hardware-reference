@@ -1,3 +1,16 @@
+## Quick Facts
+🟢 Retail Unit
+
+🟢 SteamOS 3.8.12
+
+🟢 Valve BIOS
+
+🟢 Upgradeable SO-DIMM
+
+🟢 Mesa 25.3
+
+🟢 Vulkan 1.4
+
 # Steam Machine Hardware Reference
 
 Early technical documentation collected from a retail Steam Machine.
