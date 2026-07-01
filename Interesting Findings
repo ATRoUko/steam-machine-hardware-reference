@@ -1,0 +1,9 @@
+## Interesting Findings
+
+- Memory is socketed instead of soldered.
+- The retail unit ships with one populated SO-DIMM slot.
+- A second SO-DIMM slot is available.
+- Maximum supported memory is 64 GB.
+- Valve provides its own BIOS.
+- SteamOS ships with Mesa 25.3.
+- Vulkan Instance Version 1.4.321.
