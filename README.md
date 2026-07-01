@@ -27,3 +27,5 @@ This repository contains hardware information gathered using standard Linux tool
 - Storage configuration
 
 The goal is to provide verified reference material for the community.
+
+Command selection and documentation assistance: ChatGPT
